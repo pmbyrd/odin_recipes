@@ -1,0 +1,26 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgreen;
+}
+
+h1,h2 {
+    text-align: center;
+    color: palevioletred;
+    text-shadow: 3px gray;
+}
+
+.container {
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid wheat;
+    width: 50%;
+    border-radius: 5px;
+}
+
+a:hover {
+    font-weight: bold !important;
+}
+
+ul {
+    list-style-type: none;
+}
